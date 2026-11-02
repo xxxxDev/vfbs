@@ -1,0 +1,7 @@
+{
+  "name": { "message": "VFBS: Fill the Window with Any Web Video" },
+  "description": { "message": "Make a web video fill the browser window, or open it in picture-in-picture. V-AX (v-ax.com)" },
+  "buttonFill": { "message": "Fill window" },
+  "buttonPip": { "message": "Picture-in-picture" },
+  "pipNeedsClick": { "message": "Click the video first, then try again." }
+}

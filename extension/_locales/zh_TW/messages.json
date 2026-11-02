@@ -1,0 +1,7 @@
+{
+  "name": { "message": "網頁全螢幕看影片" },
+  "description": { "message": "讓網頁影片填滿瀏覽器視窗，或開啟子母畫面。V-AX (v-ax.com)" },
+  "buttonFill": { "message": "網頁全螢幕" },
+  "buttonPip": { "message": "子母畫面" },
+  "pipNeedsClick": { "message": "請先點一下影片，再試一次。" }
+}

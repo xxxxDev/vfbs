@@ -1,0 +1,4 @@
+.DS_Store
+dist/
+# Private: the test suite is kept outside the public repository.
+tests/
