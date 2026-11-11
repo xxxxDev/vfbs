@@ -63,6 +63,14 @@
 
 VFBS 沒有伺服器，也沒有分析工具，不會傳送任何資料給作者，也不儲存任何資料，不需要額外權限。因為影片可能出現在任何網站，所以它會在所有網站上執行。詳細說明請見 [SECURITY.md](SECURITY.md)。完整的[隱私權政策](https://v-ax.com/privacy/vfbs/)在 v-ax.com。
 
+## 參與貢獻
+
+回報問題或提交修改的方式，請見 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 授權
 
-程式碼採用 [MIT 授權](LICENSE)。圖示不在此範圍內，請見 [BRAND.md](BRAND.md)。
+程式碼以 [MIT License](LICENSE) 釋出。圖示不在此授權內，見 [BRAND.md](BRAND.md)。
+
+VFBS 是獨立專案，並非由 Google 製作，也與其沒有關係或背書。Chrome 是 Google LLC 的商標。
+
+由 [V-AX](https://v-ax.com) 製作。
