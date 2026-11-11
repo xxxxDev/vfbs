@@ -39,7 +39,7 @@
 
 1. 下載這個 repository，或最新 release 的 zip，然後解壓縮。
 2. 開啟 `chrome://extensions`，打開「開發人員模式」。
-3. 選「載入未封裝項目」，選擇 `extension` 資料夾。
+3. 選「載入未封裝項目」。如果是 release 的 zip，選解壓縮後的資料夾；如果是這個 repository，選其中的 `extension` 資料夾。
 
 ## 使用方式
 

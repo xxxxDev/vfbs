@@ -39,7 +39,7 @@ Or load it yourself:
 
 1. Download this repository, or the zip from the latest release, and unzip it.
 2. Open `chrome://extensions` and turn on **Developer mode**.
-3. Choose **Load unpacked** and select the `extension` folder.
+3. Choose **Load unpacked**. From the release zip, select the unzipped folder. In a copy of this repository, select its `extension` folder.
 
 ## Use it
 
