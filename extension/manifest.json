@@ -4,7 +4,7 @@
   "short_name": "VFBS",
   "description": "__MSG_description__",
   "default_locale": "en",
-  "version": "2026.11.2",
+  "version": "2026.11.11",
   "minimum_chrome_version": "116",
   "action": {
     "default_title": "VFBS",
